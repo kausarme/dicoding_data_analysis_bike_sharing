@@ -1,1 +1,1 @@
-https://kausarbikeds.streamlit.app/
+https://ex.streamlit.app/
